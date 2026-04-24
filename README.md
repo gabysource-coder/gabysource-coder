@@ -87,11 +87,7 @@ Basado en mis proyectos recientes y mi enfoque de aprendizaje:
 
 ## 📫 Conecta conmigo
 
-<p align="left">
-<a href="https://linkedin.com/in/tu-perfil" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-
-<a href="mailto:tu-email@ejemplo.com" target="_blank">
+<a href="mailto:gabi02.nunez@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" /></a>
 </p>
 
