@@ -31,8 +31,6 @@ He trabajado de manera constante en estas tecnologías, aplicándolas en proyect
 
 | Lenguajes & Frameworks | Bases de Datos | Herramientas de Entorno |
 
-| ----------- | ----------- | ----------- |
-
 | **Java** (Programación Orientada a Objetos) | **SQL Server** | **Git / GitHub** (Flujo GitFlow) |
 
 | **C# & .NET Core** (Entity Framework) | **MySQL** | **Visual Studio / VS Code** |
