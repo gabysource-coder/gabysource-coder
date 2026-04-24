@@ -1,41 +1,63 @@
-<h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
+<h1 align="center">¡Hola! Soy una Futura Ingeniera de Software 👩‍💻</h1>
 
 <div align="center">
-<a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=330066&height=200&section=header&text=Building%20with%20Code%20&%20Data%20✨&fontSize=40&animation=fadeIn" />
 </div>
 
 <h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+  <b>Desarrollo de Software</b>
   •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
+  <b>Bases de Datos</b>
   •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
+  <b>Aspirante a Machine Learning</b>
   •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
-</h3>
+  <b>Data Science</b>
+</h4>
 
-## Introduction
+## 🚀 Introducción
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
- 
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
+Soy una estudiante de **Ingeniería de Software** apasionada por la construcción de sistemas eficientes y la arquitectura de datos. Mi enfoque actual se centra en dominar el desarrollo backend y la gestión profesional de bases de datos, con la firme aspiración de especializarme en **Machine Learning** y **Ciencia de Datos**.
 
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+- 🧬 **Aspiración:** Convertirme en Ingeniera de Software experta en modelos inteligentes.
+- 🛠️ **Habilidades en uso:** Desarrollo en Java y .NET Core, con gestión avanzada en SQL Server y Oracle.
+- 📚 **En formación:** Iniciando el estudio de Python orientado al análisis de datos y fundamentos de IA.
+- 💡 **Enfoque:** Aplicación de metodologías profesionales como GitFlow para garantizar código de calidad.
 
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
+---
 
+## 🛠️ Habilidades Técnicas (Stack Real)
+
+He trabajado de manera constante en estas tecnologías, aplicándolas en proyectos de bases de datos y desarrollo de aplicaciones:
+
+| Lenguajes & Frameworks | Bases de Datos | Herramientas de Entorno |
+
+| ----------- | ----------- | ----------- |
+
+| **Java** (Programación Orientada a Objetos) | **SQL Server** | **Git / GitHub** (Flujo GitFlow) |
+
+| **C# & .NET Core** (Entity Framework) | **MySQL** | **Visual Studio / VS Code** |
+
+| **Python** (Fundamentos para Datos) | **Oracle SQL** | **Cisco Packet Tracer** (Simulaciones) |
+
+
+---
+
+
+## 📈 Mi camino en el Software
+
+Basado en mis proyectos recientes y mi enfoque de aprendizaje:
+| Lo que me apasiona | Metas de Aprendizaje (Aspiraciones) |
+
+| ----------- | ----------- |
+
+| 🏗️ **Arquitectura de Software:** Diseñar sistemas limpios y funcionales como mi proyecto *MaRu*. | 🤖 **Machine Learning:** Comprender los fundamentos de los modelos predictivos. |
+
+| 📊 **Gestión de Datos:** Optimización de consultas y diseño de modelos Maestro-Detalle. | 🧪 **Data Science:** Aprender a extraer valor real de grandes volúmenes de información. |
+
+| 🤝 **Colaboración:** Uso profesional de control de versiones y metodologías ágiles. | 🐍 **Advanced Python:** Dominar librerías para análisis de datos. |
+
+
+## 📊 Estadísticas de Actividad (Widgets)
 
 | Repository Activity Trends | Collaborative Productivity - Last 28 days |
 | ----------- | ----------- |
@@ -61,22 +83,18 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
-| Repository Annual Ranking | Find More |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
+---
 
-## Contact us
+## 📫 Conecta conmigo
 
-<a href="https://twitter.com/OSSInsight" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<p align="left">
+<a href="https://linkedin.com/in/tu-perfil" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="mailto:tu-email@ejemplo.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" /></a>
+</p>
 
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-
-## Sponsors
-<a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
-<img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=330066&height=100&section=footer&text=Iterando%20hacia%20el%20futuro%20🚀&fontSize=30" />
+</p>
